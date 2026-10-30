@@ -1,0 +1,4 @@
+Setting,Accuracy,Precision,Recall,F1,ROC-AUC,PR-AUC (AP),Fraud Caught (TP),False Alarms (FP),Fraud Missed (FN),Legit Cleared (TN),Est. Financial Loss ($)
+Default threshold (0.50),0.998859,0.6885,0.7568,0.721,0.9425,0.7029,84,38,27,56819,7130.0
+Max-F1 threshold (0.9508),0.999263,0.8876,0.7117,0.79,0.9425,0.7029,79,10,32,56847,8100.0
+Cost-optimal threshold (0.3070),0.998069,0.503,0.7568,0.6043,0.9425,0.7029,84,83,27,56774,7580.0
